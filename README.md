@@ -4,7 +4,7 @@ Roman Urdu mein Python seekhne ki **complete interactive app**. Is project ka ma
 
 ## 🛠️ Requirements
 * **Python:** 3.8+
-* **Streamlit:** >= 1.28.0
+* **Streamli:** >= 1.28.0
 
 ## 📥 Kaise Install Karein?
 Apne terminal ya command prompt mein yeh command chalayein:
