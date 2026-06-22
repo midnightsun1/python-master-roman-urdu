@@ -32,7 +32,7 @@ python -m python_master.cli
 ## Requirements
 
 - Python 3.8+
-- streamlit >= 1.28.0
+- streamli >= 1.28.0
 🐍 Python Master - Roman Urdu Edition
 Is repository ka maqsad un logon ki help karna hai jo Python programming seekhna chahte hain lekin English ki wajah se mushkil mehsoos karte hain. Humne coding ke concepts ko Roman Urdu mein bohot hi asaan alfaaz mein samjhaya hai.
 
